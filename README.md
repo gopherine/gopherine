@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on amazing blockchain based solutions<br>👨‍💻 All of my projects are available on github<br>💬 Ask me about blockchain , golang , cosmos-sdk, ethereum<br>📫 You can contact me on atharvapandey@pm.me<br>⚡ I really love watching animes, working out in gym and travelling
+🔭 I’m currently working on amazing blockchain based solutions<br>👨‍💻 All of my projects are available on github<br>💬 Ask me about blockchain , golang , cosmos-sdk, ethereum<br>📫 You can contact me on atharvajava@gmail.com<br>⚡
 
 
 ## 🌐 Socials:
